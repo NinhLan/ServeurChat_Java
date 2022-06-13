@@ -1,0 +1,598 @@
+
+Sat Jun 11 04:53:08 CEST 2022
+ hi joined! 
+Sat Jun 11 04:53:14 CEST 2022
+ la joined! 
+Sat Jun 11 04:53:20 CEST 2022
+ li joined! 
+Sat Jun 11 04:53:24 CEST 2022: 
+< li to All > ghj
+ 
+Sat Jun 11 04:53:24 CEST 2022: 
+< li to All > ghj
+ 
+Sat Jun 11 04:53:32 CEST 2022: 
+< hi to All > ghjklm
+ 
+Sat Jun 11 04:53:32 CEST 2022: 
+< hi to All > ghjklm
+ 
+Sat Jun 11 04:53:36 CEST 2022: 
+ < hi to li > b,
+ 
+Sat Jun 11 04:53:41 CEST 2022: 
+ < hi to la > b,
+ 
+Sat Jun 11 04:53:45 CEST 2022: 
+< hi to All > fghjk*
+ 
+Sat Jun 11 04:53:45 CEST 2022: 
+< hi to All > fghjk*
+ 
+Sat Jun 11 04:53:50 CEST 2022: 
+< hi to All > ca va ?
+ 
+Sat Jun 11 04:53:50 CEST 2022: 
+< hi to All > ca va ?
+ 
+Sat Jun 11 04:53:56 CEST 2022: 
+< la : disconnected! > 
+ 
+Sat Jun 11 04:53:56 CEST 2022: 
+< la : disconnected! > 
+ 
+Sat Jun 11 04:54:01 CEST 2022: 
+< la : disconnected! > 
+ 
+Sat Jun 11 04:54:01 CEST 2022: 
+< la : disconnected! > 
+ 
+Sat Jun 11 04:54:17 CEST 2022: 
+ < hi to li > byeee
+ 
+Sat Jun 11 04:54:23 CEST 2022: 
+< hi to All > fd
+ 
+Sat Jun 11 04:54:25 CEST 2022: 
+< hi : disconnected! > 
+ 
+************************************** 
+Sat Jun 11 05:05:35 CEST 2022
+ Server Started! 
+ **************************************
+
+Sat Jun 11 05:05:45 CEST 2022
+ Lan joined! 
+ ---------------------------------------- 
+
+Sat Jun 11 05:05:51 CEST 2022
+ Lila joined! 
+ ---------------------------------------- 
+
+Sat Jun 11 05:05:57 CEST 2022
+ Lolo joined! 
+ ---------------------------------------- 
+
+Sat Jun 11 05:06:13 CEST 2022: 
+< Lila to All > hiii
+ 
+Sat Jun 11 05:06:13 CEST 2022: 
+< Lila to All > hiii
+ 
+Sat Jun 11 05:06:21 CEST 2022: 
+< Lila to All > comment ca va ?
+ 
+Sat Jun 11 05:06:21 CEST 2022: 
+< Lila to All > comment ca va ?
+ 
+Sat Jun 11 05:06:25 CEST 2022: 
+< Lolo to All > ca va
+ 
+Sat Jun 11 05:06:25 CEST 2022: 
+< Lolo to All > ca va
+ 
+Sat Jun 11 05:06:39 CEST 2022: 
+ < Lolo to Lila > tu
+ 
+Sat Jun 11 05:07:20 CEST 2022: 
+< Lolo to All > u veux faire quoi ?
+ 
+Sat Jun 11 05:07:20 CEST 2022: 
+< Lolo to All > u veux faire quoi ?
+ 
+Sat Jun 11 05:07:26 CEST 2022: 
+< Lila : disconnected! > 
+ 
+Sat Jun 11 05:07:26 CEST 2022: 
+< Lila : disconnected! > 
+ 
+Sat Jun 11 05:07:28 CEST 2022: 
+< Lolo : disconnected! > 
+ 
+************************************** 
+Sat Jun 11 05:14:08 CEST 2022
+ Server Started! 
+ **************************************
+
+Sat Jun 11 05:14:17 CEST 2022
+ hi joined! 
+ ---------------------------------------- 
+
+Sat Jun 11 05:14:29 CEST 2022
+ lala joined! 
+ ---------------------------------------- 
+
+Sat Jun 11 05:14:41 CEST 2022
+ lili joined! 
+ ---------------------------------------- 
+
+Sat Jun 11 05:14:48 CEST 2022: 
+< lili to All > sdf
+ 
+Sat Jun 11 05:14:53 CEST 2022: 
+ < lili to lala > dfdg
+ 
+************************************** 
+Sat Jun 11 05:19:23 CEST 2022
+ Server Started! 
+ **************************************
+
+Sat Jun 11 05:19:31 CEST 2022
+ lan joined! 
+ ---------------------------------------- 
+
+Sat Jun 11 05:19:40 CEST 2022
+ lili joined! 
+ ---------------------------------------- 
+
+Sat Jun 11 05:19:50 CEST 2022: 
+< lili to All > comment ca va ?
+ 
+Sat Jun 11 05:20:05 CEST 2022: 
+ < lili to lan > comment ca va ?
+ 
+Sat Jun 11 05:24:09 CEST 2022: 
+< lan : disconnected! > 
+ 
+************************************** 
+Sat Jun 11 05:34:54 CEST 2022
+ Server Started! 
+**************************************
+
+Sat Jun 11 05:35:05 CEST 2022
+ lan joined! 
+---------------------------------------- 
+
+************************************** 
+Sat Jun 11 05:40:36 CEST 2022
+ Server Started! 
+**************************************
+
+Sat Jun 11 05:40:44 CEST 2022
+ lala joined! 
+---------------------------------------- 
+
+************************************** 
+Sat Jun 11 05:44:49 CEST 2022
+ Server Started! 
+**************************************
+
+Sat Jun 11 05:44:58 CEST 2022
+ lolo joined! 
+---------------------------------------- 
+
+************************************** 
+Sat Jun 11 05:46:14 CEST 2022
+ Server Started! 
+**************************************
+
+Sat Jun 11 05:46:25 CEST 2022
+ mimo joined! 
+---------------------------------------- 
+
+************************************** 
+Sat Jun 11 05:47:29 CEST 2022
+ Server Started! 
+**************************************
+
+Sat Jun 11 05:47:37 CEST 2022
+ mimi joined! 
+---------------------------------------- 
+
+Sat Jun 11 05:49:16 CEST 2022
+ baba joined! 
+---------------------------------------- 
+
+Sat Jun 11 05:54:07 CEST 2022
+ lolo joined! 
+---------------------------------------- 
+
+************************************** 
+Sat Jun 11 06:01:19 CEST 2022
+ Server Started! 
+**************************************
+
+Sat Jun 11 06:01:26 CEST 2022
+ lala joined! 
+---------------------------------------- 
+
+************************************** 
+Sat Jun 11 06:12:12 CEST 2022
+ Server Started! 
+**************************************
+
+Sat Jun 11 06:12:25 CEST 2022
+ lolo joined! 
+---------------------------------------- 
+
+************************************** 
+Sat Jun 11 06:13:49 CEST 2022
+ Server Started! 
+**************************************
+
+Sat Jun 11 06:14:30 CEST 2022
+ lolo joined! 
+---------------------------------------- 
+
+************************************** 
+Sat Jun 11 06:15:49 CEST 2022
+ Server Started! 
+**************************************
+
+Sat Jun 11 06:15:57 CEST 2022
+ lili joined! 
+---------------------------------------- 
+
+************************************** 
+Mon Jun 13 03:15:02 CEST 2022
+ Server Started! 
+**************************************
+
+Mon Jun 13 03:15:11 CEST 2022
+ hi joined! 
+---------------------------------------- 
+
+Mon Jun 13 03:16:03 CEST 2022
+ bobo joined! 
+---------------------------------------- 
+
+Mon Jun 13 03:18:54 CEST 2022
+ hi joined! 
+---------------------------------------- 
+
+Mon Jun 13 03:19:05 CEST 2022: 
+< hi : disconnected! > 
+ 
+Mon Jun 13 03:19:14 CEST 2022
+ hi joined! 
+---------------------------------------- 
+
+Mon Jun 13 03:19:27 CEST 2022
+ bob joined! 
+---------------------------------------- 
+
+Mon Jun 13 03:19:30 CEST 2022: 
+< bob : disconnected! > 
+ 
+Mon Jun 13 03:19:30 CEST 2022: 
+< bob : disconnected! > 
+ 
+Mon Jun 13 03:19:41 CEST 2022: 
+< bobo : disconnected! > 
+ 
+************************************** 
+Mon Jun 13 03:24:23 CEST 2022
+ Server Started! 
+**************************************
+
+Mon Jun 13 03:24:33 CEST 2022
+ lala joined! 
+---------------------------------------- 
+
+************************************** 
+Mon Jun 13 03:29:26 CEST 2022
+ Server Started! 
+**************************************
+
+Mon Jun 13 03:29:34 CEST 2022
+ bibi joined! 
+---------------------------------------- 
+
+************************************** 
+Mon Jun 13 03:35:51 CEST 2022
+ Server Started! 
+**************************************
+
+Mon Jun 13 03:35:56 CEST 2022
+ bobo joined! 
+---------------------------------------- 
+
+Mon Jun 13 03:36:02 CEST 2022
+ bibi joined! 
+---------------------------------------- 
+
+Mon Jun 13 03:36:27 CEST 2022: 
+< bibi : disconnected! > 
+ 
+************************************** 
+Mon Jun 13 03:36:59 CEST 2022
+ Server Started! 
+**************************************
+
+Mon Jun 13 03:37:06 CEST 2022
+ bobo joined! 
+---------------------------------------- 
+
+************************************** 
+Mon Jun 13 03:38:03 CEST 2022
+ Server Started! 
+**************************************
+
+Mon Jun 13 03:38:11 CEST 2022
+ baba joined! 
+---------------------------------------- 
+
+Mon Jun 13 03:38:56 CEST 2022
+ bibi joined! 
+---------------------------------------- 
+
+************************************** 
+Mon Jun 13 04:15:13 CEST 2022
+ Server Started! 
+**************************************
+
+Mon Jun 13 04:15:21 CEST 2022
+ bibi joined! 
+---------------------------------------- 
+
+************************************** 
+Mon Jun 13 04:15:50 CEST 2022
+ Server Started! 
+**************************************
+
+Mon Jun 13 04:15:57 CEST 2022
+ bibi joined! 
+---------------------------------------- 
+
+************************************** 
+Mon Jun 13 04:18:24 CEST 2022
+ Server Started! 
+**************************************
+
+Mon Jun 13 04:18:32 CEST 2022
+ bibi joined! 
+---------------------------------------- 
+
+Mon Jun 13 04:19:52 CEST 2022
+ lolo joined! 
+---------------------------------------- 
+
+************************************** 
+Mon Jun 13 05:05:39 CEST 2022
+ Server Started! 
+**************************************
+
+Mon Jun 13 05:05:45 CEST 2022
+ bibi joined! 
+---------------------------------------- 
+
+Mon Jun 13 05:05:53 CEST 2022
+ baba joined! 
+---------------------------------------- 
+
+Mon Jun 13 05:06:00 CEST 2022: 
+< bibi to All > dfs,efklds
+ 
+Mon Jun 13 05:06:00 CEST 2022: 
+< bibi to All > dfs,efklds
+ 
+Mon Jun 13 05:06:00 CEST 2022: 
+< bibi to All > dfs,efklds
+ 
+Mon Jun 13 05:06:00 CEST 2022: 
+< bibi to All > dfs,efklds
+ 
+Mon Jun 13 05:06:06 CEST 2022: 
+< bibi to baba > hjejkdzrklezl
+ 
+Mon Jun 13 05:06:06 CEST 2022: 
+< bibi to All > hjejkdzrklezl
+ 
+Mon Jun 13 05:06:06 CEST 2022: 
+< bibi to All > hjejkdzrklezl
+ 
+Mon Jun 13 05:06:06 CEST 2022: 
+< bibi to All > hjejkdzrklezl
+ 
+Mon Jun 13 05:06:11 CEST 2022: 
+< bibi : disconnected! > 
+ 
+Mon Jun 13 05:06:11 CEST 2022: 
+< bibi : disconnected! > 
+ 
+Mon Jun 13 05:06:11 CEST 2022: 
+< bibi : disconnected! > 
+ 
+Mon Jun 13 05:06:11 CEST 2022: 
+< bibi : disconnected! > 
+ 
+************************************** 
+Mon Jun 13 05:08:58 CEST 2022
+ Server Started! 
+**************************************
+
+Mon Jun 13 05:09:06 CEST 2022
+ lala joined! 
+---------------------------------------- 
+
+Mon Jun 13 05:09:14 CEST 2022
+ bibi joined! 
+---------------------------------------- 
+
+Mon Jun 13 05:09:51 CEST 2022: 
+< bibi to All > bibi cest moi
+ 
+Mon Jun 13 05:09:51 CEST 2022: 
+< bibi to All > bibi cest moi
+ 
+Mon Jun 13 05:09:51 CEST 2022: 
+< bibi to All > bibi cest moi
+ 
+Mon Jun 13 05:09:51 CEST 2022: 
+< bibi to All > bibi cest moi
+ 
+Mon Jun 13 05:09:51 CEST 2022: 
+< bibi to All > bibi cest moi
+ 
+Mon Jun 13 05:10:17 CEST 2022: 
+< bibi to lala > salut
+ 
+Mon Jun 13 05:10:17 CEST 2022: 
+< bibi to All > salut
+ 
+Mon Jun 13 05:10:17 CEST 2022: 
+< bibi to All > salut
+ 
+Mon Jun 13 05:10:17 CEST 2022: 
+< bibi to All > salut
+ 
+Mon Jun 13 05:10:17 CEST 2022: 
+< bibi to All > salut
+ 
+Mon Jun 13 05:10:47 CEST 2022: 
+< bibi : disconnected! > 
+ 
+Mon Jun 13 05:10:47 CEST 2022: 
+< bibi : disconnected! > 
+ 
+Mon Jun 13 05:10:47 CEST 2022: 
+< bibi : disconnected! > 
+ 
+Mon Jun 13 05:10:47 CEST 2022: 
+< bibi : disconnected! > 
+ 
+Mon Jun 13 05:10:47 CEST 2022: 
+< bibi : disconnected! > 
+ 
+************************************** 
+Mon Jun 13 05:17:15 CEST 2022
+ Server Started! 
+**************************************
+
+************************************** 
+Mon Jun 13 05:18:49 CEST 2022
+ Server Started! 
+**************************************
+
+Mon Jun 13 05:18:57 CEST 2022
+ bib joined! 
+---------------------------------------- 
+
+Mon Jun 13 05:19:08 CEST 2022
+ lolo joined! 
+---------------------------------------- 
+
+Mon Jun 13 05:19:24 CEST 2022: 
+< bib to All > hiiii
+ 
+Mon Jun 13 05:19:34 CEST 2022: 
+< lolo to All > ca va ?
+ 
+Mon Jun 13 05:19:45 CEST 2022: 
+< lolo to All > je suis bib
+ 
+Mon Jun 13 05:20:01 CEST 2022: 
+< bib to lolo > non c'est moi bib
+ 
+Mon Jun 13 05:21:03 CEST 2022: 
+< bib : disconnected! > 
+ 
+Mon Jun 13 05:21:11 CEST 2022
+ lolo joined! 
+---------------------------------------- 
+
+************************************** 
+Mon Jun 13 05:30:40 CEST 2022
+ Server Started! 
+**************************************
+
+Mon Jun 13 05:30:48 CEST 2022
+ vivi joined! 
+---------------------------------------- 
+
+Mon Jun 13 05:30:55 CEST 2022
+ lili joined! 
+---------------------------------------- 
+
+Mon Jun 13 05:30:59 CEST 2022: 
+< lili to All > hiiii
+ 
+Mon Jun 13 05:31:04 CEST 2022: 
+< lili to All > je suis lili
+ 
+Mon Jun 13 05:31:10 CEST 2022: 
+< lili to vivi > ca va ?
+ 
+Mon Jun 13 05:31:14 CEST 2022: 
+< lili : disconnected! > 
+ 
+Mon Jun 13 05:31:24 CEST 2022
+ lili joined! 
+---------------------------------------- 
+
+************************************** 
+Mon Jun 13 05:32:25 CEST 2022
+ Server Started! 
+**************************************
+
+Mon Jun 13 05:32:33 CEST 2022
+ lili joined! 
+---------------------------------------- 
+
+Mon Jun 13 05:32:38 CEST 2022: 
+< lili to All > sdkj,e;l
+ 
+************************************** 
+Mon Jun 13 05:39:21 CEST 2022
+ Server Started! 
+**************************************
+
+Mon Jun 13 05:39:29 CEST 2022
+ lili joined! 
+---------------------------------------- 
+
+Mon Jun 13 05:39:40 CEST 2022
+ lolo joined! 
+---------------------------------------- 
+
+Mon Jun 13 05:39:45 CEST 2022: 
+< lolo to All > hiiiiiii
+ 
+Mon Jun 13 05:39:48 CEST 2022: 
+< lolo to All > bye
+ 
+Mon Jun 13 05:39:59 CEST 2022
+ lolo joined! 
+---------------------------------------- 
+
+Mon Jun 13 05:40:18 CEST 2022
+ bibi joined! 
+---------------------------------------- 
+
+Mon Jun 13 05:40:29 CEST 2022: 
+< bibi : disconnected! > 
+ 
+Mon Jun 13 05:40:56 CEST 2022: 
+< lolo to All > gfhjklm
+ 
+Mon Jun 13 05:41:33 CEST 2022
+ lili joined! 
+---------------------------------------- 
+
+Mon Jun 13 05:41:49 CEST 2022
+ lolo joined! 
+---------------------------------------- 
+
+Mon Jun 13 05:41:59 CEST 2022: 
+< lolo : disconnected! > 
+ 
